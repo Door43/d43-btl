@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[btl:home|Door43 (btl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-btl|d43-btl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-btl/archive/master.zip|d43-btl.zip]]
+
+**Recent Changes**
+{{changes>ns = btl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/btl|Ethnologue data]]
+
